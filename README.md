@@ -1,5 +1,5 @@
 # IMDB-MOVIE-APP
-HERE IS THE DEPLOY LINK OF MY PROJECT:https://ananya-pro.github.io/IMDB-MOVIE-APP/
+HERE IS THE DEPLOY LINK OF MY PROJECT:https://yashgithub31.github.io/F3-Contest-1/
 
 
 Project Overview- OMDB Movie Search Dashboard With Error Handling
